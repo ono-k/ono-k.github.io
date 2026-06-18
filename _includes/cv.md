@@ -13,7 +13,7 @@
   東京大学理学部物理学科
 {% else %}
 - **Apr. 2023 – Mar. 2025**  
-  Bachelor of Science, Department of physics, The University of Tokyo
+  Bachelor of Science, Department of Physics, The University of Tokyo
 {% endif %}
 
 {% if page.lang == "ja" %}
