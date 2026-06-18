@@ -1,14 +1,21 @@
 <footer class="site-footer h-card">
-  <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  <style>
+    .social-icon {
+      margin-left: 0.5em;
+      color: inherit;
+    }
+  </style>
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <p class="footer-heading">
-        {{ site.author | escape }}
+        {{ site.author }}
       </p>
-
       <p>
         {{ site.email }}
+        <a class="social-icon" href="https://x.com/ono_k_" target="_blank" rel="noopener" aria-label="X">
+          <i class="fa-brands fa-x-twitter"></i>
+        </a>
       </p>
     </div>
   </div>
