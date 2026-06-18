@@ -36,6 +36,6 @@
 ## Contact
 
 - Email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
-- X: [@kooki_oonoo](https://x.com/kooki_oonoo)
+- X: [@ono_k_](https://x.com/ono_k_)
 
 {% endif %}
