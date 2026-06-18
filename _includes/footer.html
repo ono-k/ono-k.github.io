@@ -1,9 +1,14 @@
 <footer class="site-footer h-card">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
   <style>
-    .social-icon {
-      margin-left: 0.5em;
+    .social-icon, .social-icon:visited {
+      margin-left: 0.4em;
+      font-size: 1.2em;
       color: inherit;
+      text-decoration: none;
+    }
+    .social-icon:hover {
+      opacity: 0.7;
     }
   </style>
   <div class="wrapper">
@@ -13,8 +18,11 @@
       </p>
       <p>
         {{ site.email }}
-        <a class="social-icon" href="https://x.com/ono_k_" target="_blank" rel="noopener" aria-label="X">
+        <a class="social-icon" href="https://x.com/ono_k_">
           <i class="fa-brands fa-x-twitter"></i>
+        </a>
+        <a class="social-icon" href="https://orcid.org/0009-0004-2198-6013">
+          <i class="fa-brands fa-orcid"></i>
         </a>
       </p>
     </div>
