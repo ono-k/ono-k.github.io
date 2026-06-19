@@ -34,6 +34,14 @@
   [World-leading Innovative Graduate Study Program for Advanced Basic Science Course, The University of Tokyo](https://wings-abc.c.u-tokyo.ac.jp/)
 {% endif %}
 
+{% if page.lang == "ja" %}
+- **2021年4月 – 2025年3月**  
+  岩井久雄記念東京奨学育英基金
+{% else %}
+- **Apr. 2021 – Mar. 2025**  
+  Hisao Iwai Memorial Tokyo Scholarship Foundation (岩井久雄記念東京奨学育英基金)
+{% endif %}
+
 ## {% if page.lang == "ja" %}受賞{% else %}Awards{% endif %}
 
 {% if page.lang == "ja" %}
