@@ -1,5 +1,5 @@
 {% if page.lang == "ja" %}
-# 大野 浩輝 (Koki Ono)
+# 大野 浩輝 (Koki ONO)
 
 ## 研究分野
 
@@ -17,7 +17,7 @@
 - Email: {{ site.email }}
 - X: [@{{ site.x_username }}](https://x.com/{{ site.x_username }})
 {% else %}
-# Koki Ono (大野 浩輝)
+# Koki ONO (大野 浩輝)
 
 ## Research Interests
 

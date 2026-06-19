@@ -15,7 +15,9 @@
       {%- assign switch_url = "/ja" | append: page.url -%}
     {%- endif -%}
 
-    <a class="site-title" rel="author" href="{{ home_url | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ home_url | relative_url }}">
+      {{ site.title }}
+    </a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -29,9 +31,6 @@
         </label>
 
         <div class="trigger">
-          <a class="page-link" href="{{ home_url | relative_url }}">
-            {% if lang == "ja" %}ホーム{% else %}Home{% endif %}
-          </a>
           {%- for path in page_paths -%}
             {%- assign path_page = site.pages | where: "path", path | first -%}
             {%- if path_page.title and path_page.lang == lang -%}
