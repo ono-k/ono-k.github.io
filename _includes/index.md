@@ -9,7 +9,7 @@
 
 ## 所属
 
-- 東京大学 大学院総合文化研究科 広域科学専攻 相関基礎科学系
+- [東京大学 大学院総合文化研究科 広域科学専攻 相関基礎科学系](https://dbs.c.u-tokyo.ac.jp/)
 - 指導教員: [高木 隆司](https://ryujitakagi.wordpress.com/) ([東大駒場量子情報理論研究室](https://group.takagi-qi.com/))
 
 ## 連絡先
@@ -27,7 +27,7 @@
 
 ## Affiliation
 
-- Department of Basic Science, The University of Tokyo
+- [Department of Basic Science, The University of Tokyo](https://dbs.c.u-tokyo.ac.jp/)
 - Supervisor: [Ryuji Takagi](https://ryujitakagi.wordpress.com/) ([Takagi Quantum Information Theory Group](https://group.takagi-qi.com/))
 
 ## Contact
