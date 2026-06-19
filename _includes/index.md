@@ -21,7 +21,7 @@
 
 ## Research Interests
 
-- Quantum Information Theory
+- Quantum Information
 - Foundations of Quantum Mechanics
 - Foundations of Thermodynamics and Statistical Mechanics
 
