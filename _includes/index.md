@@ -5,8 +5,8 @@
 ## 研究分野
 
 - 量子情報理論
-- 量子基礎論
-- 物性基礎論
+- 量子論の基礎
+- 熱力学の基礎
 
 ## 所属
 
@@ -26,7 +26,7 @@
 
 - Quantum Information Theory
 - Foundations of Quantum Mechanics
-- Foundations of Statistical Mechanics and Thermodynamics
+- Foundations of Thermodynamics
 
 ## Affiliation
 
