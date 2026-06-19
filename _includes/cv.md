@@ -39,7 +39,7 @@
   岩井久雄記念東京奨学育英基金
 {% else %}
 - **Apr. 2021 – Mar. 2025**  
-  Hisao Iwai Memorial Tokyo Scholarship Foundation (岩井久雄記念東京奨学育英基金)
+  Hisao Iwai Memorial Tokyo Scholarship Fund (岩井久雄記念東京奨学育英基金)
 {% endif %}
 
 ## {% if page.lang == "ja" %}受賞{% else %}Awards{% endif %}
