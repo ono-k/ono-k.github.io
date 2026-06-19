@@ -1,5 +1,4 @@
 {% if page.lang == "ja" %}
-
 # 大野 浩輝 (Koki Ono)
 
 ## 研究分野
@@ -15,11 +14,9 @@
 
 ## 連絡先
 
-- Email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
-- X: [@ono_k_](https://x.com/ono_k_)
-
+- Email: {{ site.email }}
+- X: [@{{ site.x_username }}](https://x.com/{{ site.x_username }})
 {% else %}
-
 # Koki Ono (大野 浩輝)
 
 ## Research Interests
@@ -35,7 +32,6 @@
 
 ## Contact
 
-- Email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
-- X: [@ono_k_](https://x.com/ono_k_)
-
+- Email: {{ site.email }}
+- X: [@{{ site.x_username }}](https://x.com/{{ site.x_username }})
 {% endif %}
