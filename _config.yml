@@ -1,10 +1,10 @@
-author: Koki Ono
 title: Koki Ono
+author: Koki Ono
 email: ono-koki667[at]g.ecc.u-tokyo.ac.jp
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-sitemap
 header_pages:
   - index.md
   - publications.md
