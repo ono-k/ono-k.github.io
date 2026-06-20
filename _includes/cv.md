@@ -5,7 +5,7 @@
   東京大学大学院総合文化研究科広域科学専攻相関基礎科学系 修士課程
 {% else %}
 - **Apr. 2025 – present**  
-  Master's Program, Department of Basic Science, The University of Tokyo
+  Master's Program, Department of Basic Science, the University of Tokyo
 {% endif %}
 
 {% if page.lang == "ja" %}
@@ -13,7 +13,7 @@
   東京大学理学部物理学科
 {% else %}
 - **Apr. 2023 – Mar. 2025**  
-  Bachelor of Science, Department of Physics, The University of Tokyo
+  Bachelor of Science, Department of Physics, the University of Tokyo
 {% endif %}
 
 {% if page.lang == "ja" %}
@@ -21,7 +21,7 @@
   東京大学教養学部（前期課程）理科一類
 {% else %}
 - **Apr. 2021 – Mar. 2023**  
-  College of Arts and Sciences, The University of Tokyo
+  College of Arts and Sciences, the University of Tokyo
 {% endif %}
 
 ## {% if page.lang == "ja" %}フェローシップ{% else %}Fellowships{% endif %}
