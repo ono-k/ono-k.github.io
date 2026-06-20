@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Activities
+title: Other activities
 lang: en
 permalink: /activities/
 ---
