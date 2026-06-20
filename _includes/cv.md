@@ -51,3 +51,11 @@
 - **Mar. 2026**  
   Student Presentation Award, [Quantum Foundations 2026](https://www.math.is.tohoku.ac.jp/~quantum/QF26/index.html)
 {% endif %}
+
+<br>
+
+{% if page.lang == "ja" %}
+[その他の活動](/ja/activities/)
+{% else %}
+[Other activities](/activities/)
+{% endif %}
