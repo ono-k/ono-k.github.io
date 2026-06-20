@@ -31,7 +31,7 @@
   [東京大学先進基礎科学推進国際卓越大学院教育プログラム](https://wings-abc.c.u-tokyo.ac.jp/)
 {% else %}
 - **Jul. 2025 – Mar. 2030**  
-  [World-leading Innovative Graduate Study Program for Advanced Basic Science Course, The University of Tokyo](https://wings-abc.c.u-tokyo.ac.jp/)
+  [World-leading Innovative Graduate Study Program for Advanced Basic Science Course, the University of Tokyo](https://wings-abc.c.u-tokyo.ac.jp/)
 {% endif %}
 
 {% if page.lang == "ja" %}
