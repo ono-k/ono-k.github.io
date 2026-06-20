@@ -34,7 +34,7 @@
   {% else %} Tokyo, Japan, Mar. 2026
   {% endif %}
 
-- "Theoretical Study on Quantum Channel Purification"  
+- "Theoretical study on quantum channel purification"  
   [量子力学100周年研究会：量子基礎・量子情報のこれまでとこれから](https://indico.yukawa.kyoto-u.ac.jp/event/64/),
   {% if page.lang == "ja" %} 京都大学, 2025年9月
   {% else %} Kyoto University, Japan, Sep. 2025
