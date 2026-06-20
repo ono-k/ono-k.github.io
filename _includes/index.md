@@ -27,7 +27,7 @@
 
 ## Affiliation
 
-- [Department of Basic Science, The University of Tokyo](https://dbs.c.u-tokyo.ac.jp/)
+- [Department of Basic Science, the University of Tokyo](https://dbs.c.u-tokyo.ac.jp/)
 - Supervisor: [Ryuji Takagi](https://ryujitakagi.wordpress.com/) ([Takagi Quantum Information Theory Group](https://group.takagi-qi.com/))
 
 ## Contact
