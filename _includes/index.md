@@ -19,11 +19,11 @@
 {% else %}
 # Koki ONO (大野 浩輝)
 
-## Research Interests
+## Research interests
 
-- Quantum Information
-- Foundations of Quantum Mechanics
-- Foundations of Thermodynamics and Statistical Mechanics
+- Quantum information
+- Foundations of quantum mechanics
+- Foundations of thermodynamics and statistical mechanics
 
 ## Affiliation
 
