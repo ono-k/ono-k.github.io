@@ -6,7 +6,7 @@
   {% else %} University of Tsukuba, Apr. 2026
   {% endif %}
 
-## {% if page.lang == "ja" %}口頭発表{% else %}Oral Presentations{% endif %}
+## {% if page.lang == "ja" %}口頭発表{% else %}Oral presentations{% endif %}
 
 - "測定とエントロピーから見た一般確率論と熱力学第二法則の整合性"  
   [第54回量子情報技術研究会 (QIT54)](https://www.ieice.org/es/qit/qit54/index.html),
