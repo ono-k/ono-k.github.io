@@ -8,6 +8,12 @@
 
 ## {% if page.lang == "ja" %}口頭発表{% else %}Oral presentations{% endif %}
 
+- "一般確率論における情報熱力学"  
+  [第71回物性若手夏の学校](https://cmpss.jp/ss2026/),
+  {% if page.lang == "ja" %} 熊本県阿蘇市, 2026年8月
+  {% else %} Kumamoto, Japan, Aug. 2026
+  {% endif %}
+
 - "測定とエントロピーから見た一般確率論と熱力学第二法則の整合性"  
   [第54回量子情報技術研究会 (QIT54)](https://www.ieice.org/es/qit/qit54/index.html),
   {% if page.lang == "ja" %} 三重県伊勢市, 2026年5月
@@ -27,6 +33,18 @@
   {% endif %}
 
 ## {% if page.lang == "ja" %}ポスター{% else %}Posters{% endif %}
+
+- "一般確率論における情報熱力学"  
+  [第71回物性若手夏の学校](https://cmpss.jp/ss2026/),
+  {% if page.lang == "ja" %} 熊本県阿蘇市, 2026年8月
+  {% else %} Kumamoto, Japan, Aug. 2026
+  {% endif %}
+
+- "一般確率論における情報熱力学"  
+  [量子基礎・量子情報の新展開](https://indico.yukawa.kyoto-u.ac.jp/event/88/),
+  {% if page.lang == "ja" %} 京都大学, 2026年8月
+  {% else %} Kyoto University, Japan, Aug. 2026
+  {% endif %}
 
 - "Sharpness and intersubjectivety of measurements in generalized probabilistic theories"  
   [Quantum Resources 2026](https://2026.quantumresources.science/),
