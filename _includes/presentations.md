@@ -9,6 +9,12 @@
 ## {% if page.lang == "ja" %}口頭発表{% else %}Oral presentations{% endif %}
 
 - "一般確率論における情報熱力学"  
+  [日本物理学会 第81回年次大会](https://www.jps.or.jp/activities/meetings/annual/annual-index.php),
+  {% if page.lang == "ja" %} 東京大学, 2026年8月
+  {% else %} The University of Tokyo, Japan, Aug. 2026
+  {% endif %}
+
+- "一般確率論における情報熱力学"  
   [第71回物性若手夏の学校](https://cmpss.jp/ss2026/),
   {% if page.lang == "ja" %} 熊本県阿蘇市, 2026年8月
   {% else %} Kumamoto, Japan, Aug. 2026
